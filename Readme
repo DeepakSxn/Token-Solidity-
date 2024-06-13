@@ -1,0 +1,15 @@
+# Token
+
+This Solidity program is a simple program that demonstrates the creation of Token. The purpose of this program is to show the basic details of token and operations.
+
+## Description
+
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a two main functionn that returns mint(add) or burn(remove) a unit(value) at a specific address and Three variable to store token details(name,abrv,supply). This program serves as a simple exapmle of token and smart contract.
+
+### Executing Program
+
+To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at [https://remix.ethereum.org/](https://remix.ethereum.org/).
+
+Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a `.sol` extension (e.g.,Token.sol). Copy and paste the following code into the file:
+
+Atlast run and enjoy!!!
