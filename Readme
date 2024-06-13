@@ -5,8 +5,16 @@ This Solidity program is a simple program that demonstrates the creation of Toke
 ## Description
 
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a two main functionn that returns mint(add) or burn(remove) a unit(value) at a specific address and Three variable to store token details(name,abrv,supply). This program serves as a simple exapmle of token and smart contract.
+### Getting Started
 
-### Executing Program
+1.firstly the version of solidity
+
+2.Creation of smart contract 
+  i.  Add variable for token details(name , abrv , supply) also Map address to get balance of the given address wallet.
+  ii. Create a mint function for adding value to a given anddress and also the change it in total supply(moslty add)
+  iii. Create a burn function for buring the deletion(burnig) the value in the given address and also the change it in total supply
+
+#### Executing Program
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at [https://remix.ethereum.org/](https://remix.ethereum.org/).
 
